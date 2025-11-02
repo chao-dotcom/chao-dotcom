@@ -10,7 +10,7 @@ Sure, I can throw in some numbers for the ATS gods, but truthfully, I just love 
 - Grinding LeetCode (and occasionally LeetCrying) or 
 - Working on a repo that will *definitely* work after one more commit or
 - Paddling in the pool pretending I’m a seal discovering recursion or
-- Lying on my bed, spinning existentially like a hamster on a wheel
+- Lying on my bed, spinning existentially like a hamster on a wheel 
 
 ### Portfolio
 My [Portfolio Website](https://chao-dotcom.github.io/) is a few commits behind my GitHub repo,  
