@@ -4,7 +4,7 @@ I’m currently pursuing a [Master of Computer Science](https://cs.rice.edu/) at
 I’ve worked at Advantech and QuantaVision as an Application Engineer and SWE Intern — where I learned to become a *versatile engineer*, building 0→1 things that are nearly impossible to measure but incredibly satisfying to create.  
 Sure, I can throw in some numbers for the ATS gods, but truthfully, I just love that messy, unquantifiable 0→1 phase — testing ideas, breaking things, fixing them, and calling it *“experimentation.”*
 
----
+--- 
 
 ### Currently
 - Grinding LeetCode (and occasionally LeetCrying) or 
