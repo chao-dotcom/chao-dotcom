@@ -1,11 +1,25 @@
-I’m currently pursuing a [Master of Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/), and I previously graduated from [National Taiwan University](https://www.ntu.edu.tw/).
+### `whoami`
+
+I take deep-learning models off the cloud and cram them onto hardware that has to answer in milliseconds and can't phone home — cameras, wearables, edge boxes. That's **Edge AI / on-device ML**: quantization, CUDA, TensorRT, and a lot of *"why is it still 3 ms too slow."*
+
+Right now I'm doing that as an intern at **Logitech**, while finishing my [M.S. in Computer Science](https://cs.rice.edu/) at [Rice University](https://www.rice.edu/) (Dec 2026). Before Houston, [National Taiwan University](https://www.ntu.edu.tw/).
 
 ### Currently
-- Grinding LeetCode (and occasionally LeetCrying) or  
-- Working on a repo that will *definitely* work after one more commit or  
-- Paddling in the pool pretending I’m a seal discovering recursion or  
-- Lying on my bed, spinning existentially like a hamster on a wheel  
+- Grinding LeetCode (and occasionally LeetCrying), or
+- Convincing a model that INT8 is *plenty* of bits, or
+- Working on a repo that will *definitely* work after one more commit, or
+- Paddling in the pool pretending I'm a seal discovering recursion, or
+- Lying on my bed, spinning existentially like a hamster on a wheel
 
-### Portfolio
-My [Portfolio Website](https://chao-dotcom.github.io/) is a few commits behind my GitHub repo,  
-but it features a beautiful cover photo taken at **SUMMIT One Vanderbilt** in NYC.
+### A few things I've built (pinned below 📌)
+- **hybrid_isp** — a RAW→RGB camera ISP, classical pipeline vs. a learned denoiser, scored on the Kodak benchmark
+- **mot_tracker** — a from-scratch SORT tracker (Kalman + Hungarian), measured on real MOT17
+- **DeepTrack** — DeepSORT + a Transformer tracker + person re-ID, with a video demo
+- **vamp** — an AVX2-vectorized motion planner, ~15× faster than the scalar baseline
+- …plus hand-rolled CUDA kernels and an end-to-end LLM system.
+
+### Find me
+[Portfolio](https://chao-dotcom.github.io/) · [LinkedIn](https://linkedin.com/in/chaohsuan) · [LeetCode](https://leetcode.com/u/aloyslawerence/) · hochaohsuan@gmail.com
+
+> My [portfolio](https://chao-dotcom.github.io/) is now (hopefully) fewer commits behind my repos —
+> still with that cover photo from **SUMMIT One Vanderbilt**.
