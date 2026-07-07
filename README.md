@@ -11,13 +11,6 @@ Right now I'm doing that as an intern at **Logitech**, while finishing my [M.S. 
 - Paddling in the pool pretending I'm a seal discovering recursion, or
 - Lying on my bed, spinning existentially like a hamster on a wheel
 
-### A few things I've built (pinned below 📌)
-- **hybrid_isp** — a RAW→RGB camera ISP, classical pipeline vs. a learned denoiser, scored on the Kodak benchmark
-- **mot_tracker** — a from-scratch SORT tracker (Kalman + Hungarian), measured on real MOT17
-- **DeepTrack** — DeepSORT + a Transformer tracker + person re-ID, with a video demo
-- **vamp** — an AVX2-vectorized motion planner, ~15× faster than the scalar baseline
-- …plus hand-rolled CUDA kernels and an end-to-end LLM system.
-
 ### Find me
 [Portfolio](https://chao-dotcom.github.io/) · [LinkedIn](https://linkedin.com/in/chaohsuan) · [LeetCode](https://leetcode.com/u/aloyslawerence/) · hochaohsuan@gmail.com
 
