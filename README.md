@@ -8,9 +8,3 @@ Right now I'm doing that as an intern at **Logitech**, while finishing my [M.S. 
 - Working on a repo that will *definitely* work after one more commit, or
 - Paddling in the pool pretending I'm a seal discovering recursion, or
 - Lying on my bed, spinning existentially like a hamster on a wheel
-
-### Find me
-[Portfolio](https://chao-dotcom.github.io/) · [LinkedIn](https://linkedin.com/in/chaohsuan) · [LeetCode](https://leetcode.com/u/aloyslawerence/) · hochaohsuan@gmail.com
-
-> My [portfolio](https://chao-dotcom.github.io/) is now (hopefully) fewer commits behind my repos —
-> still with that cover photo from **SUMMIT One Vanderbilt**.
