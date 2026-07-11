@@ -4,7 +4,6 @@ Right now I'm doing that as an intern at **Logitech**, while finishing my [M.S. 
 
 ### Currently
 - Grinding LeetCode (and occasionally LeetCrying), or
-- Convincing a model that INT8 is *plenty* of bits, or
 - Working on a repo that will *definitely* work after one more commit, or
 - Paddling in the pool pretending I'm a seal discovering recursion, or
 - Lying on my bed, spinning existentially like a hamster on a wheel
